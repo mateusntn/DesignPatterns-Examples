@@ -1,0 +1,13 @@
+C:\Users\Samsung\Desktop\teste\FactoryMethodPattern\bin\Debug\netcoreapp3.1\FactoryMethodPattern.exe
+C:\Users\Samsung\Desktop\teste\FactoryMethodPattern\bin\Debug\netcoreapp3.1\FactoryMethodPattern.deps.json
+C:\Users\Samsung\Desktop\teste\FactoryMethodPattern\bin\Debug\netcoreapp3.1\FactoryMethodPattern.runtimeconfig.json
+C:\Users\Samsung\Desktop\teste\FactoryMethodPattern\bin\Debug\netcoreapp3.1\FactoryMethodPattern.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\teste\FactoryMethodPattern\bin\Debug\netcoreapp3.1\FactoryMethodPattern.dll
+C:\Users\Samsung\Desktop\teste\FactoryMethodPattern\bin\Debug\netcoreapp3.1\FactoryMethodPattern.pdb
+C:\Users\Samsung\Desktop\teste\FactoryMethodPattern\obj\Debug\netcoreapp3.1\FactoryMethodPattern.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\teste\FactoryMethodPattern\obj\Debug\netcoreapp3.1\FactoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\teste\FactoryMethodPattern\obj\Debug\netcoreapp3.1\FactoryMethodPattern.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\teste\FactoryMethodPattern\obj\Debug\netcoreapp3.1\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\teste\FactoryMethodPattern\obj\Debug\netcoreapp3.1\FactoryMethodPattern.dll
+C:\Users\Samsung\Desktop\teste\FactoryMethodPattern\obj\Debug\netcoreapp3.1\FactoryMethodPattern.pdb
+C:\Users\Samsung\Desktop\teste\FactoryMethodPattern\obj\Debug\netcoreapp3.1\FactoryMethodPattern.genruntimeconfig.cache
